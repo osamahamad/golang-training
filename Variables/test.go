@@ -1,5 +1,5 @@
 
-					// Summary : 
+					// Summary: 
 					//  - Variable declaration: 
 
 					// 	var foo int
