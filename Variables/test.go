@@ -1,3 +1,18 @@
+
+					// Summary : 
+					//  - Variable declaration: 
+
+					// 	var foo int
+					// 	var foo int = 42
+					// 	foo := 42 
+
+					// - Can't redeclare variables, but can shadow them 
+					// - All variables must be used .
+					// - Visibilty: 
+					//     lower case first letter for package scope.
+					// 	upper case first letter to export .
+					// 	no private scope 
+
 package main
 
 import (
@@ -68,3 +83,6 @@ fmt.Printf("%v ,%T, %T\n",i,i,float32(i))
 
 
 }
+
+
+
